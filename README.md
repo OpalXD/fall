@@ -12,3 +12,7 @@ $ git clone https://github.com/OpalXD/fall
 $ pip2 install requests bs4
 
 $ pip2 install futures
+
+$ cd fall
+
+$ python2 fall.py
